@@ -2,7 +2,7 @@ body {
     font-family: "Poppins", serif;
 }
 .primary_btn {
-    border-radius: 5px;
+     border-radius: 5px;
     background-color: #FD6E0A;
      border: 0;
      color: aliceblue;
@@ -70,11 +70,12 @@ button {
 }
 p {
     margin-top: 0;
+    font-size: 16px;
 }
 .about {
     background-color: #FFF8F3;
     padding: 50px 100px;
-    margin: 100px;
+    margin: 100px 100px 0 100px;
     border-radius: 10px;
 
 }
@@ -101,7 +102,7 @@ main {
  
 
 }
-.i-do {
+.what_do {
     text-align: center;
     padding: 30px 150px;
 }
@@ -110,4 +111,23 @@ main {
 }
 .skills_description  p {
     font-size: 12px;
+}
+.about_description {
+    text-align: center;
+}
+.skill_cont {
+    display: flex;
+    margin-top: 50px;
+    padding: 0;
+    gap: 24px;
+    background: white;
+    ;
+}
+.skills {
+    padding: 20px;
+    border-radius: 7px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px
+}
+.logo {
+    font-size: 45px;
 }
