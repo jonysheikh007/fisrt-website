@@ -18,7 +18,7 @@ nav {
     margin: 0 200px;
 
 }
-h3 {
+h4 {
     font-size: 45px;
     font-weight: 800;
 }
@@ -98,7 +98,16 @@ main {
 }
 .whai_i_do {
     padding: 30px 150px;
+ 
+
 }
 .i-do {
     text-align: center;
+    padding: 30px 150px;
+}
+.info_tittle > h4 {
+    font-size: 20px;
+}
+.skills_description  p {
+    font-size: 12px;
 }
