@@ -126,8 +126,19 @@ main {
 .skills {
     padding: 20px;
     border-radius: 7px;
-    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px
+    box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
 }
 .logo {
     font-size: 45px;
+}
+.resume {
+    margin: 100px 0;
+}
+.my_summary {
+    text-align: center;
+    margin-bottom: 50px;
+}
+.resume_list {
+    display: flex;
+    gap: 30px;
 }
