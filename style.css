@@ -145,14 +145,32 @@ main {
 .edu_des {
     color: #6e6e6e;
 }
-hr {
-    color: #6e6e6e;
 
-}
 .edu_details {
     color: #6e6e6e;
 }
 .download_cv {
     text-align: center;
     margin: 50px 0;
+}
+footer {
+    display: flex;
+    background-color: #FFF8F3;
+    padding: 130px 230px;
+    gap: 50px;
+}
+.footer_column {
+    width: 50%;
+}
+.social_link a {
+    margin-right: 25px;
+}
+.contact input[type="text"], .contact input[type="email"], textarea {
+    display: block;
+    background-color: #FFF;
+    border: 0;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    width: 70%;
+    border-radius: 7px;
 }
