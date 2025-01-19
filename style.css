@@ -142,3 +142,17 @@ main {
     display: flex;
     gap: 30px;
 }
+.edu_des {
+    color: #6e6e6e;
+}
+hr {
+    color: #6e6e6e;
+
+}
+.edu_details {
+    color: #6e6e6e;
+}
+.download_cv {
+    text-align: center;
+    margin: 50px 0;
+}
